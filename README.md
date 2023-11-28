@@ -1,10 +1,13 @@
 # TOOP25
 Today we finish our coverage of OOP by implementing classes in Platform IO and on our robot! We will also go over
 how to use classes when working with the Pololu robot.
+
 BEFORE CLASS
 Review the references and today's slides.
+
 IN CLASS
 See Slides
+
 TOOP 25 IN-CLASS EXERCISE
 For this in-class exercise, let’s put it all together!
 1. Create a new project in platform IO named TOOP25.
@@ -23,6 +26,7 @@ use the Pololu OLED functions to display line1 on the screen.
 4. In loop()
 4.1. Call dispLine() and use delay() as needed.
 5. Run the program and verify it works.
+   
 Note: Pololu uses a “String” with a capital “S” for the string data type.
 You may leave once you have:
 • Synchronized your work with GitHub
